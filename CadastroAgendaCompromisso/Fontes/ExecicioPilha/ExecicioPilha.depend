@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491347243 source:c:\users\aluno\arquivos\execiciopilha\estrutura.c
+
+1491351679 source:c:\users\aluno\arquivos\execiciopilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estrutura.h"
+
+1491351067 c:\users\aluno\arquivos\execiciopilha\estrutura.h
+
+1491352048 source:c:\users\aluno\arquivos\execiciopilha\funcoesdapilha.c
+	<stdio.h>
+	<stdlib.h>
+	"estrutura.h"
+

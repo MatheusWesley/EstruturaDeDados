@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494101558 source:/home/matheus/Documentos/EstruturaDeDados/CadastroAgendaCompromisso/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+Sistema Cadastro de Agenda de Compromissos
+
+Seção 1
+    CADASTRO DE CLIENTES
+        - Cadastrar
+            nome e telefone
+        - Pesquisar
+            nome ou telefone
+        - Listar
+            lista clientes pela ordem de cadastro
+        - Ordenar
+            - Usando os metodos
+                Bolha, Inserção, Seleção
