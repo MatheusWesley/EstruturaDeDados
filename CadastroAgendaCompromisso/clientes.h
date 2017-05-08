@@ -14,8 +14,6 @@ typedef struct{
 
 
 // Funções do Cliente
-
-
 void criaCliente (Cliente *cliente);
 void cadastraCliente (Cliente *cliente);
 void pesquisaCliente (Cliente *cliente);
